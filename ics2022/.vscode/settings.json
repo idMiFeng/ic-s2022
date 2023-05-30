@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "utils.h": "c",
+        "isa.h": "c",
+        "paddr.h": "c",
+        "reg.h": "c",
+        "regex.h": "c",
+        "common.h": "c"
+    },
+    "C_Cpp.errorSquiggles": "enabled"
+}
